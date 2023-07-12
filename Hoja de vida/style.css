@@ -1,0 +1,141 @@
+ body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+      background-color: #f1f1f1;
+    }
+
+.section1{
+        background-color: #ffffff;
+        height: auto;
+        width: 100%;
+    }
+
+    .section2{
+        background-color: #777777;
+        height: auto;
+        width: 100%;
+    }
+    
+    .section3{
+        background-color: #ffffff;
+        height: auto;
+        width: 100%;
+    }
+
+    .section4{
+        background-color: #777777;
+        height: auto;
+        width: 100%;}
+
+    .section5{
+        background-color: #ffffff;
+        height: auto;
+        width: 100%;
+    }
+
+    .section6{
+        background-color: #777777;
+        height: auto;
+        width: 100%;}
+
+    .section7{
+        color: #777777;
+        height: auto;
+        width: 100%;}
+
+    .section8{
+        background-color: #ffffff;
+        height: auto;
+        width: 100%;
+        }
+
+    .container {
+        display: flex;
+      }
+  
+      .sidebar {
+        width: 20%;
+        background-color: #000000;
+        padding: 20px;
+        color: #fffdfd;
+        height: 100%;
+      }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 30px;
+      color: #333333;
+    }
+
+    .section {
+      margin-bottom: 30px;
+      padding: 20px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      border-radius: 5px;
+    }
+
+    .section h2 {
+      margin-bottom: 20px;
+      color: #555555;
+    }
+
+    .section p {
+      margin: 0;
+      color: #777777;
+    }
+
+    .section ul {
+      margin: 0;
+      padding: 0;
+      list-style-type: none;
+    }
+
+    .section ul li {
+      margin-bottom: 5px;
+      color: #777777;
+    }
+
+    .contact-details {
+      display: flex;
+      align-items: center;
+      margin-bottom: 10px;
+    }
+
+    .contact-details i {
+      margin-right: 10px;
+      color: #777777;
+    }
+
+    .skills {
+      display: flex;
+      flex-wrap: wrap;
+      margin-top: 10px;
+    }
+
+    .skills span {
+      display: inline-block;
+      background-color: #e2e2e2;
+      color: #555555;
+      padding: 5px 10px;
+      border-radius: 4px;
+      margin-right: 5px;
+      margin-bottom: 5px;
+    }
+
+.image img{
+    height: 300px;
+    border-radius: 50%;
+    border: 10px solid gray;
+}
+
+.Sections{
+    display: auto;
+    padding: 20px;
+    padding-top: 0;
+    justify-content: space-between;
+}
+
+.section7 h2{
+    text-align: center;
+}
